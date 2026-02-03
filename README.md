@@ -9,11 +9,10 @@
 I am a 13 year old from Alabama!
 
 ## What I'm Doing ✏️
-Right now I am working on my compiler for **LC (Light Cobol)**
+Right now I am working on some simple blackjack bots!
 
 ## Projects 📑
 Right now I'm working on:
-- LC
 - Making my horror game (**PLUTO**)
 - School
 
