@@ -2,7 +2,6 @@
   <img src="https://github-readme-stats-seven-black-76.vercel.app/api?username=dercode-solutions-2025&show_icons=true" />
   <img src="https://github-readme-stats-seven-black-76.vercel.app/api/top-langs/?username=dercode-solutions-2025"/>
 </p>
----
 
 
 # dercode-solutions-2025
@@ -53,6 +52,9 @@ Right now I'm working on:
 - Ruby
 - Deadfish
 - JavaScript
----
 
-**Goodbye, and have a good day! 👋**
+## Repositories 🖥
+- Public: 21
+- Private: 13
+---
+## Goodbye, and have a good day! 👋
