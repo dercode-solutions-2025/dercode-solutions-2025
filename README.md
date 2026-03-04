@@ -47,14 +47,11 @@ Right now I'm working on:
 ## Languages 🖥
 - Python
 - C
-- Rust
-- Go
-- Ruby
-- Deadfish
 - JavaScript
 
 ## Repositories 🖥
-- Public: 21
-- Private: 13
+- I have 40 repos, with around a dozen of them being private.
 ---
+## Highlighted Repo ⭐
+- Rhuse, my personal compiler/interpreter. It was a huge learning project.
 ## Goodbye, and have a good day! 👋
