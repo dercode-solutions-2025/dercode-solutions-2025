@@ -13,8 +13,9 @@ Right now I am working on some simple blackjack bots!
 
 ## Projects 📑
 Right now I'm working on:
-- Making my horror game (**PLUTO**)
+- Making my interpreter (**Rhuse**)
 - School
+- Writing my book (**Writing an Interpreter**)
 
 ## Goals ⚽
 - Learning Python
@@ -25,7 +26,7 @@ Right now I'm working on:
 - Making my own game engine
 
 ## Socials 🌐
-- YouTube: **sbeve_specialist**
+- YouTube: **siae26**
 
 ## Things I Enjoy 😀
 - Playing Elden Ring
