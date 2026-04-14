@@ -6,24 +6,21 @@
 
 # dercode-solutions-2025
 
-I am a 13 year old from Alabama!
-
 ## What I'm Doing ✏️
-Right now I am working on my interpreter!
+Right now I am working on Opal, my personal scripting language.
 
 ## Projects 📑
 Right now I'm working on:
-- Making my interpreter (**Rhuse**)
+- Making my interpreter (**Opal**)
 - School
 - Writing my book (**Writing an Interpreter**)
 
 ## Goals ⚽
 - Learning Python
 - Making my own programming language
-- Learning Assembly
-- Learning C
-- Making my own CPU
-- Making my own game engine
+- Learning C++
+- Making my own CPU/Assembler
+- Making my own kernel/shell
 
 ## Socials 🌐
 - YouTube: **siae26**
@@ -47,12 +44,12 @@ Right now I'm working on:
 
 ## Languages 🖥
 - Python
-- C
+- C++
 - JavaScript
 
 ## Repositories 🖥
-- I have 40 repos, with around a dozen of them being private.
+- I have 50 repos, with around a dozen of them being private.
 ---
 ## Highlighted Repo ⭐
-- Rhuse, my personal compiler/interpreter. It was a huge learning project.
+- Opal, a small scripting language written in Python.
 ## Goodbye, and have a good day! 👋
