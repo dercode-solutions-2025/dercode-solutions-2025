@@ -7,11 +7,11 @@
 # dercode-solutions-2025
 
 ## What I'm Doing ✏️
-Right now I am working on Opal, my personal scripting language.
+Right now I am working on Valence, a small scripting language.
 
 ## Projects 📑
 Right now I'm working on:
-- Making my interpreter (**Opal**)
+- Making my interpreter (**Valence**)
 - School
 - Writing my book (**Writing an Interpreter**)
 
@@ -24,6 +24,7 @@ Right now I'm working on:
 
 ## Socials 🌐
 - YouTube: **siae26**
+- TikTok: **siae26**
 
 ## Things I Enjoy 😀
 - Playing Elden Ring
@@ -45,11 +46,10 @@ Right now I'm working on:
 ## Languages 🖥
 - Python
 - C++
-- JavaScript
 
 ## Repositories 🖥
 - I have 50 repos, with around a dozen of them being private.
 ---
 ## Highlighted Repo ⭐
-- Opal, a small scripting language written in Python.
+- Valence
 ## Goodbye, and have a good day! 👋
