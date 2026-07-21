@@ -49,5 +49,5 @@ Right now I'm working on:
 - I have 50 repos, with around a dozen of them being private.
 ---
 ## Highlighted Repo ⭐
-- Valence
+- [aero-lang](https://github.com/dercode-solutions-2025/aero-lang)
 ## Goodbye, and have a good day! 👋
