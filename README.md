@@ -7,13 +7,11 @@
 # dercode-solutions-2025
 
 ## What I'm Doing ✏️
-Right now I am working on Valence, a small scripting language.
+Right now I am working on Aero, my first compiler, not to mention my first multi-pass compiler.
 
 ## Projects 📑
 Right now I'm working on:
-- Making my interpreter (**Valence**)
-- School
-- Writing my book (**Writing an Interpreter**)
+- Making my interpreter (**Aero**)
 
 ## Goals ⚽
 - Learning Python
